@@ -427,8 +427,8 @@ class MyAdapter(BaseAdapter):
 ## 📞 联系我们
 
 - **GitHub Issues**: [提交问题](https://github.com/yourusername/yuyan-ai/issues)
-- **邮箱**: support@yuyan-ai.com
-- **文档**: https://docs.yuyan-ai.com
+- **邮箱**: 294945908@qq.com
+- **文档**: https://www.wangmingsen.cn/
 
 ---
 
